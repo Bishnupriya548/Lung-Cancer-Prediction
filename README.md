@@ -5,12 +5,17 @@ This project focuses on predicting lung cancer risk using machine learning techn
 
 🎯 Objectives
 Perform exploratory data analysis (EDA) to understand data distribution and feature relationships
+
 Build and compare multiple machine learning models
+
 Evaluate model performance and identify the best-performing algorithm
+
 Analyze feature importance contributing to lung cancer prediction
 
 📊 Dataset Description:
+
 The dataset contains structured medical and lifestyle information, including:
+
 Gender,Age,Smoking,Yellow fingers,Anxiety,Peer pressure,Chronic disease,Fatigue,Allergy,Wheezing
 ,Alcohol consumption,Coughing,Shortness of breath,Swallowing difficulty,Chest pain
 Target Variable:LUNG_CANCER (YES / NO)
@@ -20,8 +25,11 @@ Target Variable:LUNG_CANCER (YES / NO)
 🧠 Machine Learning Models Used and Model Performance:
 
 Linear Regression: MSE: 0.052
+
 Logistic Regression Accuracy: ~85–90%
+
 Random Forest Accuracy: ~90–95%
 
 🛠️ Technologies Used
+
 Python,Pandas, NumPy,Scikit-learn,Matplotlib, Seaborn
